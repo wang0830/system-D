@@ -5,3 +5,5 @@ teacher2 = Teacher('朱老師')
 
 teacher1.getName()
 teacher2.getName()
+
+input()
